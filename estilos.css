@@ -1,0 +1,23 @@
+.padrao {
+    background-color: #9932CC; /* comentário */
+    color: white;
+}
+
+.titulo{
+    color: yellow;
+    font-size: 60px;
+    font-family: 'Segoe UI';
+    text-align: center;
+}
+
+.textocomborda{
+    background-color: palegreen;
+    color: darkblue;
+    border: 5px double red;
+}
+
+.textocomimagem{
+    border: lightpink 5px double;
+    font-size: 18px;
+    background-image: url(michael.gif);
+}
